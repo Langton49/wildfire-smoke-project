@@ -3,3 +3,4 @@ __pycache__/
 *.pyc
 src/ingestion/raw_data/
 *.csv
+*.nc
